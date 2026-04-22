@@ -40,12 +40,6 @@ Casa Pura Living solves a real problem: people who want to eliminate toxins, pla
 | Serialization | Kotlin Serialization |
 
 
-## Architecture
-UI Layer          →  Compose Screens (HomeScreen, BrowseScreen, etc.)
-ViewModel Layer   →  PuraViewModel (StateFlow, business logic)
-Repository Layer  →  PuraRepository (single source of truth)
-Data Layer        →  PuraApiService (Ktor) + SwapDao (Room)
-
 
 **Data flow:**
 - Product catalog is fetched via Ktor from a remote JSON endpoint. If the network is unavailable, the app falls back to a bundled `assets/products.json` file so it always works offline.
