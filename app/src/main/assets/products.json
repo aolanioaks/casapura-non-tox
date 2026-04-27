@@ -1,0 +1,579 @@
+{
+  "products": [
+    {
+      "id": "water_001",
+      "name": "Berkey Water Filter",
+      "brand": "Berkey",
+      "category": "water",
+      "subcategory": "Countertop Filter",
+      "puraScore": 97,
+      "whyItsClean": "Removes 200+ contaminants including chlorine, fluoride, heavy metals, pharmaceuticals, and bacteria without electricity or complex plumbing.",
+      "replaces": "Plastic Brita filters, single-use plastic water bottles",
+      "certifications": ["BPA-Free", "NSF Tested", "No Plastic Parts"],
+      "imageUrl": "drawable://berkey",
+      "productUrl": "https://berkeywaterfilter.com"
+    },
+    {
+      "id": "water_002",
+      "name": "Clearly Filtered Pitcher",
+      "brand": "Clearly Filtered",
+      "category": "water",
+      "subcategory": "Pitcher Filter",
+      "puraScore": 94,
+      "whyItsClean": "Certified to remove 365+ contaminants including PFAS, lead, and chlorine. BPA-free Tritan plastic construction.",
+      "replaces": "Standard Brita or PUR pitchers with limited filtration",
+      "certifications": ["BPA-Free", "NSF/ANSI 42, 53, 401", "PFAS Removal"],
+      "imageUrl": "drawable://clearlyfiltered",
+      "productUrl": "https://clearlyfiltered.com"
+    },
+    {
+      "id": "water_003",
+      "name": "Jolie Filtered Showerhead",
+      "brand": "Jolie",
+      "category": "water",
+      "subcategory": "Shower Filter",
+      "puraScore": 92,
+      "whyItsClean": "Filters chlorine, chloramine, and heavy metals from shower water — protecting skin and hair from harsh chemical exposure daily.",
+      "replaces": "Standard unfiltered showerheads",
+      "certifications": ["KDF-55 Filter Media", "Chlorine Reduction"],
+      "imageUrl": "drawable://jollie",
+      "productUrl": "https://jolieskin.com"
+    },
+    {
+      "id": "water_004",
+      "name": "AquaTrue RO System",
+      "brand": "AquaTrue",
+      "category": "water",
+      "subcategory": "Reverse Osmosis",
+      "puraScore": 98,
+      "whyItsClean": "4-stage reverse osmosis removes up to 99.99% of contaminants including arsenic, nitrates, and PFAS. No installation required.",
+      "replaces": "Under-sink systems requiring plumber, bottled water delivery",
+      "certifications": ["NSF/ANSI 58", "BPA-Free", "PFAS Certified"],
+      "imageUrl": "drawable://aquatrue",
+      "productUrl": "https://aquatruwater.com"
+    },
+    {
+      "id": "water_005",
+      "name": "Zero Water Pitcher",
+      "brand": "ZeroWater",
+      "category": "water",
+      "subcategory": "Pitcher Filter",
+      "puraScore": 90,
+      "whyItsClean": "5-stage filtration reaches 000 ppm dissolved solids — the only pour-through certified to NSF/ANSI 53 for chromium and lead reduction.",
+      "replaces": "Unfiltered tap water and basic carbon-only pitchers",
+      "certifications": ["NSF/ANSI 53", "Lead Removal", "BPA-Free"],
+      "imageUrl": "drawable://zerowater",
+      "productUrl": "https://zerowater.com"
+    },
+    {
+      "id": "water_006",
+      "name": "Still Water Well",
+      "brand": "Hillside",
+      "category": "water",
+      "subcategory": "Ceramic Dispenser ",
+      "puraScore": 98,
+      "whyItsClean": "A handcrafted ceramic water filter designed for clean, mineral rich drinking water. Powered by our pleated filter with NSF certified carbon and advanced nanofiber technology, the Stillwater Well is third party tested to reduce over 200 contaminants while retaining beneficial minerals.",
+      "replaces": "Unfiltered tap water and basic carbon-only pitchers",
+      "certifications": ["NSF/ANSI 53", "Lead Removal", "BPA-Free"],
+      "imageUrl": "drawable://stillwaterwell",
+      "productUrl": "https://hillsidehomestore.com/products/the-stillwater-well"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "kitchen_001",
+      "name": "Bee's Wrap Reusable Wraps",
+      "brand": "Bee's Wrap",
+      "category": "kitchen",
+      "subcategory": "Food Storage",
+      "puraScore": 99,
+      "whyItsClean": "Made from organic cotton, beeswax, jojoba oil, and tree resin. Completely plastic-free, compostable, and reusable for up to a year.",
+      "replaces": "Plastic cling wrap (Saran Wrap), plastic bags",
+      "certifications": ["GOTS Organic", "Compostable", "Plastic-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400",
+      "productUrl": "https://beeswrap.com"
+    },
+    {
+      "id": "kitchen_002",
+      "name": "Lodge Cast Iron Skillet",
+      "brand": "Lodge",
+      "category": "kitchen",
+      "subcategory": "Cookware",
+      "puraScore": 96,
+      "whyItsClean": "100% natural iron with no synthetic coatings, PFOA, PTFE, or Teflon. Seasoned with natural oil. Lasts generations with proper care.",
+      "replaces": "Non-stick Teflon pans which leach PFAS at high heat",
+      "certifications": ["PFOA-Free", "PTFE-Free", "No Synthetic Coating"],
+      "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+      "productUrl": "https://lodgecastiron.com"
+    },
+    {
+      "id": "kitchen_003",
+      "name": "Weck Glass Canning Jars",
+      "brand": "Weck",
+      "category": "kitchen",
+      "subcategory": "Food Storage",
+      "puraScore": 98,
+      "whyItsClean": "100% borosilicate glass with rubber gaskets — no plastic, no BPA, no leaching. Safe for fridge, freezer, oven, and dishwasher.",
+      "replaces": "Plastic Tupperware, plastic-lidded containers",
+      "certifications": ["BPA-Free", "Plastic-Free", "Food Grade Glass"],
+      "imageUrl": "https://images.unsplash.com/photo-1609501676725-7186f017a4b7?w=400",
+      "productUrl": "https://weck.de"
+    },
+    {
+      "id": "kitchen_004",
+      "name": "Bambu Organic Utensil Set",
+      "brand": "Bambu",
+      "category": "kitchen",
+      "subcategory": "Utensils",
+      "puraScore": 95,
+      "whyItsClean": "Certified organic bamboo with no plastic, no synthetic dyes, and no chemical finish. Naturally antimicrobial.",
+      "replaces": "Plastic spatulas, nylon cooking utensils",
+      "certifications": ["USDA Organic", "FSC Certified", "Plastic-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=400",
+      "productUrl": "https://bambu.com"
+    },
+    {
+      "id": "kitchen_005",
+      "name": "Full Circle Dish Brush",
+      "brand": "Full Circle",
+      "category": "kitchen",
+      "subcategory": "Cleaning",
+      "puraScore": 91,
+      "whyItsClean": "Bamboo handle with plant-based bristles. Replaces plastic dish brushes that shed microplastics into your water and food.",
+      "replaces": "Plastic dish brushes, synthetic sponges",
+      "certifications": ["Bamboo Handle", "Plant-Based Bristles", "Compostable"],
+      "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400",
+      "productUrl": "https://fullcirclehome.com"
+    },
+    {
+      "id": "kitchen_006",
+      "name": "Stasher Silicone Bags",
+      "brand": "Stasher",
+      "category": "kitchen",
+      "subcategory": "Food Storage",
+      "puraScore": 93,
+      "whyItsClean": "100% pure platinum silicone — no BPA, BPS, or plastic. Reusable, dishwasher-safe, and oven-safe up to 400°F.",
+      "replaces": "Single-use Ziploc plastic bags",
+      "certifications": ["BPA-Free", "BPS-Free", "Food Grade Silicone", "Reusable"],
+      "imageUrl": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=400",
+      "productUrl": "https://stasherbag.com"
+    },
+    {
+      "id": "kitchen_007",
+      "name": "Earlywood Hardwood Spoons",
+      "brand": "Earlywood",
+      "category": "kitchen",
+      "subcategory": "Utensils",
+      "puraScore": 97,
+      "whyItsClean": "Hand-crafted from hardwoods with food-safe oil finish. No varnish, no stain, no synthetic coating. Naturally antimicrobial.",
+      "replaces": "Plastic or nylon spoons that scratch pans and degrade over time",
+      "certifications": ["Food-Safe Finish", "Plastic-Free", "Handmade USA"],
+      "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400",
+      "productUrl": "https://earlywooddesigns.com"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "bathroom_001",
+      "name": "Innersense Hydrating Shampoo",
+      "brand": "Innersense",
+      "category": "bathroom",
+      "subcategory": "Shampoo",
+      "puraScore": 98,
+      "whyItsClean": "Free of sulfates, parabens, phthalates, and synthetic fragrance. EWG Verified, USDA Certified Biobased. Safe for color-treated hair.",
+      "replaces": "Conventional shampoos with SLS, parabens, and synthetic fragrance",
+      "certifications": ["EWG Verified", "USDA Biobased", "Sulfate-Free", "Paraben-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=400",
+      "productUrl": "https://innersensebeauty.com"
+    },
+    {
+      "id": "bathroom_002",
+      "name": "Dr. Bronner's Pure-Castile Bar",
+      "brand": "Dr. Bronner's",
+      "category": "bathroom",
+      "subcategory": "Soap",
+      "puraScore": 97,
+      "whyItsClean": "Made with organic and fair-trade ingredients. No synthetic preservatives, detergents, or foaming agents. Packaged in recycled paper.",
+      "replaces": "Conventional liquid soap in plastic bottles with synthetic surfactants",
+      "certifications": ["USDA Organic", "Fair Trade", "Vegan", "Plastic-Free Packaging"],
+      "imageUrl": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?w=400",
+      "productUrl": "https://drbronner.com"
+    },
+
+    {
+      "id": "bathroom_004",
+      "name": "Bite Toothpaste Bits",
+      "brand": "Bite",
+      "category": "bathroom",
+      "subcategory": "Oral Care",
+      "puraScore": 95,
+      "whyItsClean": "Zero-waste toothpaste tablets. No plastic tube, no SLS, no artificial sweeteners. Glass bottle refillable subscription.",
+      "replaces": "Conventional toothpaste in plastic tubes with SLS and microbeads",
+      "certifications": ["SLS-Free", "Fluoride Options", "Zero-Waste", "Vegan"],
+      "imageUrl": "https://images.unsplash.com/photo-1604186838425-e2e6e7f62607?w=400",
+      "productUrl": "https://bitetoothpastebits.com"
+    },
+    {
+      "id": "bathroom_005",
+      "name": "Who Gives A Crap TP",
+      "brand": "Who Gives A Crap",
+      "category": "bathroom",
+      "subcategory": "Toilet Paper",
+      "puraScore": 93,
+      "whyItsClean": "100% recycled or bamboo fibers. No inks, dyes, or scents. Wrapped in paper not plastic. 50% of profits to sanitation charities.",
+      "replaces": "Virgin-pulp toilet paper in plastic wrapping with synthetic fragrances",
+      "certifications": ["FSC Certified", "Plastic-Free Packaging", "No Dyes", "B Corp"],
+      "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400",
+      "productUrl": "https://us.whogivesacrap.org"
+    },
+    {
+      "id": "bathroom_006",
+      "name": "Ursa Major Face Cleanser",
+      "brand": "Ursa Major",
+      "category": "bathroom",
+      "subcategory": "Skincare",
+      "puraScore": 94,
+      "whyItsClean": "No parabens, sulfates, silicones, synthetic fragrance, or PEGs. Formulated with aloe, willow bark, and plant-based actives.",
+      "replaces": "Conventional face washes with synthetic preservatives and artificial fragrance",
+      "certifications": ["EWG Verified", "Paraben-Free", "Silicone-Free", "Cruelty-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "productUrl": "https://ursamajorvt.com"
+    },
+    {
+      "id": "bathroom_007",
+      "name": "Ethique Shampoo Bar",
+      "brand": "Ethique",
+      "category": "bathroom",
+      "subcategory": "Shampoo",
+      "puraScore": 96,
+      "whyItsClean": "Concentrated solid shampoo bar — no water, no plastic bottle, no SLS. One bar equals 3 bottles of liquid shampoo.",
+      "replaces": "Liquid shampoo in plastic bottles with sulfates and parabens",
+      "certifications": ["Plastic-Free", "Vegan", "Compostable Packaging", "B Corp"],
+      "imageUrl": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=400",
+      "productUrl": "https://ethique.com"
+    },
+    {
+      "id": "bathroom_008",
+      "name": "Georganics Oil Pulling Mouthwash",
+      "brand": "Georganics",
+      "category": "bathroom",
+      "subcategory": "Oral Care",
+      "puraScore": 92,
+      "whyItsClean": "Coconut oil-based mouthwash with no alcohol, no fluoride, no synthetic flavors. Comes in glass jar with no plastic waste.",
+      "replaces": "Alcohol-based mouthwash with artificial dyes, sweeteners, and plastic bottles",
+      "certifications": ["Organic", "Plastic-Free", "Vegan", "Cruelty-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1604186838425-e2e6e7f62607?w=400",
+      "productUrl": "https://georganics.com"
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "id": "bedroom_001",
+      "name": "Cultiver Linen Sheet Set",
+      "brand": "Cultiver",
+      "category": "bedroom",
+      "subcategory": "Bedding",
+      "puraScore": 98,
+      "whyItsClean": "100% European flax linen, OEKO-TEX certified. No synthetic dyes, no polyester blends, no chemical softeners. Naturally temperature-regulating.",
+      "replaces": "Polyester-blend or chemically treated cotton sheets",
+      "certifications": ["OEKO-TEX Standard 100", "100% Linen", "No Synthetic Dyes"],
+      "imageUrl": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400",
+      "productUrl": "https://us.cultiver.com"
+    },
+    {
+      "id": "bedroom_002",
+      "name": "Avocado Organic Wool Blanket",
+      "brand": "Avocado Green",
+      "category": "bedroom",
+      "subcategory": "Bedding",
+      "puraScore": 96,
+      "whyItsClean": "100% GOTS certified organic wool. No synthetic fibers, moth repellents, or flame retardant chemicals. Naturally fire resistant.",
+      "replaces": "Synthetic fleece blankets or chemically treated wool",
+      "certifications": ["GOTS Organic", "MADE SAFE", "No Flame Retardants"],
+      "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "productUrl": "https://avocadogreenmattress.com"
+    },
+    {
+      "id": "bedroom_003",
+      "name": "Saatva Organic Cotton Pillow",
+      "brand": "Saatva",
+      "category": "bedroom",
+      "subcategory": "Pillows",
+      "puraScore": 93,
+      "whyItsClean": "GOTS organic cotton shell filled with natural latex. No polyester fill, no memory foam off-gassing, no synthetic fire barriers.",
+      "replaces": "Polyester-fill pillows and memory foam pillows with VOC off-gassing",
+      "certifications": ["GOTS Organic", "GOLS Latex", "No Polyester"],
+      "imageUrl": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e6?w=400",
+      "productUrl": "https://saatvamattress.com"
+    },
+    {
+      "id": "bedroom_004",
+      "name": "Coyuchi Organic Duvet Cover",
+      "brand": "Coyuchi",
+      "category": "bedroom",
+      "subcategory": "Bedding",
+      "puraScore": 97,
+      "whyItsClean": "100% GOTS certified organic cotton. Processed without chlorine bleach, formaldehyde, or optical brighteners.",
+      "replaces": "Conventional cotton duvets treated with wrinkle-resist and stain-guard chemicals",
+      "certifications": ["GOTS Organic", "Climate Neutral", "Fair Trade"],
+      "imageUrl": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=400",
+      "productUrl": "https://coyuchi.com"
+    },
+    {
+      "id": "bedroom_005",
+      "name": "Boll & Branch Organic Towels",
+      "brand": "Boll & Branch",
+      "category": "bedroom",
+      "subcategory": "Towels",
+      "puraScore": 95,
+      "whyItsClean": "GOTS certified organic cotton with no formaldehyde finishing or synthetic softeners. Fair Trade certified.",
+      "replaces": "Conventional towels treated with antimicrobial chemicals and fabric softeners",
+      "certifications": ["GOTS Organic", "Fair Trade", "Formaldehyde-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=400",
+      "productUrl": "https://bollandbranch.com"
+    },
+
+
+
+
+
+
+
+
+    {
+      "id": "laundry_001",
+      "name": "Meliora Laundry Powder",
+      "brand": "Meliora",
+      "category": "laundry",
+      "subcategory": "Detergent",
+      "puraScore": 99,
+      "whyItsClean": "EWG Verified, fragrance-free, and packaged in cardboard. No optical brighteners, no synthetic fragrance, no phosphates, no dyes.",
+      "replaces": "Tide and other conventional detergents with synthetic fragrance, optical brighteners, and plastic jugs",
+      "certifications": ["EWG Verified", "B Corp", "Plastic-Free", "Fragrance-Free"],
+      "imageUrl": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400",
+      "productUrl": "https://melioramakesclean.com"
+    },
+    {
+      "id": "laundry_002",
+      "name": "Smart Sheep Wool Dryer Balls",
+      "brand": "Smart Sheep",
+      "category": "laundry",
+      "subcategory": "Dryer",
+      "puraScore": 100,
+      "whyItsClean": "100% New Zealand wool. No synthetic fragrances, no PVC, no chemicals. Naturally softens laundry and reduces drying time by 25%.",
+      "replaces": "Dryer sheets with synthetic fragrance, plasticizers, and quaternary ammonium compounds",
+      "certifications": ["100% Wool", "Chemical-Free", "Reusable 1000+ loads"],
+      "imageUrl": "https://images.unsplash.com/photo-1521656693074-0ef32e80a5d5?w=400",
+      "productUrl": "https://smartsheepwool.com"
+    },
+    {
+      "id": "laundry_003",
+      "name": "Branch Basics Concentrate",
+      "brand": "Branch Basics",
+      "category": "laundry",
+      "subcategory": "Detergent",
+      "puraScore": 97,
+      "whyItsClean": "One plant-based concentrate replaces all household cleaners. No fragrance, no dyes, no preservatives, no enzymes.",
+      "replaces": "Multiple conventional cleaning products with synthetic fragrance and harsh surfactants",
+      "certifications": ["EWG Verified", "Made Safe", "Fragrance-Free", "Concentrate"],
+      "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400",
+      "productUrl": "https://branchbasics.com"
+    },
+    {
+      "id": "laundry_004",
+      "name": "Dropps Laundry Pods",
+      "brand": "Dropps",
+      "category": "laundry",
+      "subcategory": "Detergent",
+      "puraScore": 91,
+      "whyItsClean": "Fragrance-free, dye-free, and packaged in cardboard — no plastic jug. EWG rated and septic-safe formula.",
+      "replaces": "Tide Pods in plastic tubs with synthetic fragrance and optical brighteners",
+      "certifications": ["EWG Rated", "Fragrance-Free", "Cardboard Packaging", "Septic-Safe"],
+      "imageUrl": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400",
+      "productUrl": "https://dropps.com"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "clothing_001",
+      "name": "Pact Organic Cotton Tee",
+      "brand": "Pact",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 96,
+      "whyItsClean": "GOTS certified organic cotton grown without synthetic pesticides or fertilizers. Fair Trade certified. No synthetic dyes in select colors.",
+      "replaces": "Conventional cotton tees grown with heavy pesticide use and synthetic dyes",
+      "certifications": ["GOTS Organic", "Fair Trade", "B Corp", "Bluesign"],
+      "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400",
+      "productUrl": "https://wearpact.com"
+    },
+    {
+      "id": "clothing_002",
+      "name": "Quince Mongolian Cashmere",
+      "brand": "Quince",
+      "category": "clothing",
+      "subcategory": "Sweaters",
+      "puraScore": 88,
+      "whyItsClean": "100% Grade A Mongolian cashmere with no synthetic blends. Naturally temperature-regulating and long-lasting — reducing fast fashion consumption.",
+      "replaces": "Acrylic 'cashmere-feel' sweaters that shed microplastics with every wash",
+      "certifications": ["100% Cashmere", "No Synthetic Blend"],
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400",
+      "productUrl": "https://onequince.com"
+    },
+    {
+      "id": "clothing_003",
+      "name": "Thought Clothing Linen Shirt",
+      "brand": "Thought",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 94,
+      "whyItsClean": "European flax linen requires no irrigation or pesticides to grow. OEKO-TEX certified, low-impact dyes, packaged plastic-free.",
+      "replaces": "Polyester dress shirts and chemically treated performance fabrics",
+      "certifications": ["OEKO-TEX", "Low-Impact Dyes", "Plastic-Free Packaging"],
+      "imageUrl": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?w=400",
+      "productUrl": "https://wearethought.com"
+    },
+    {
+      "id": "clothing_004",
+      "name": "Smartwool Merino Base Layer",
+      "brand": "Smartwool",
+      "category": "clothing",
+      "subcategory": "Base Layers",
+      "puraScore": 91,
+      "whyItsClean": "ZQ Certified merino wool. Naturally odor-resistant and temperature-regulating without synthetic treatments. No microplastic shedding.",
+      "replaces": "Synthetic polyester base layers that shed microplastics and trap odor",
+      "certifications": ["ZQ Merino", "bluesign", "No Mulesing"],
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "productUrl": "https://smartwool.com"
+    },
+    {
+      "id": "clothing_005",
+      "name": "Eileen Fisher Organic Linen",
+      "brand": "Eileen Fisher",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 93,
+      "whyItsClean": "Certified organic linen grown without pesticides or synthetic fertilizers. Take-back program recycles worn garments.",
+      "replaces": "Synthetic blended tops with polyester that shed microplastics",
+      "certifications": ["OEKO-TEX", "Organic Linen", "Take-Back Program"],
+      "imageUrl": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?w=400",
+      "productUrl": "https://eileenfisher.com"
+    },
+    {
+      "id": "clothing_006",
+      "name": "Patagonia Hemp Work Pants",
+      "brand": "Patagonia",
+      "category": "clothing",
+      "subcategory": "Bottoms",
+      "puraScore": 92,
+      "whyItsClean": "Hemp/organic cotton blend requiring no pesticides to grow. Fair Trade certified sewing. Naturally durable and biodegradable.",
+      "replaces": "Synthetic work pants with PFAS-based water repellent and nylon blends",
+      "certifications": ["Fair Trade", "bluesign", "Organic Cotton", "B Corp"],
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400",
+      "productUrl": "https://patagonia.com"
+    },
+
+    {
+      "id": "clothing_007",
+      "name": "Pact Organic Cotton Workout Set",
+      "brand": "Pact",
+      "category": "clothing",
+      "subcategory": "Workout Sets",
+      "puraScore": 96,
+      "whyItsClean": "GOTS certified organic cotton grown without synthetic pesticides or fertilizers. Fair Trade certified. No synthetic dyes in select colors.",
+      "replaces": "Conventional polyester workout gear full of heavy plastic use and synthetic dyes",
+      "certifications": ["GOTS Organic", "Fair Trade", "B Corp", "Bluesign"],
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "productUrl": "https://wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20stride%20set/bdl-wos2-stbl"
+    },
+    {
+      "id": "clothing_008",
+      "name": "Quince Organic Cotton Crew",
+      "brand": "Quince",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 90,
+      "whyItsClean": "100% GOTS certified organic cotton at a fraction of typical retail price. No synthetic blends, no harsh dyes.",
+      "replaces": "Conventional cotton crewnecks with synthetic dye processing",
+      "certifications": ["GOTS Organic", "Fair Trade"],
+      "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400",
+      "productUrl": "https://onequince.com"
+    },
+    {
+      "id": "clothing_009",
+      "name": "Quince Merino Wool Turtleneck",
+      "brand": "Quince",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 91,
+      "whyItsClean": "100% extra-fine merino wool. Naturally odor-resistant, temperature-regulating, and biodegradable. No synthetic fiber blends.",
+      "replaces": "Acrylic or polyester turtlenecks that shed microplastics",
+      "certifications": ["100% Merino", "No Synthetic Blend"],
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400",
+      "productUrl": "https://onequince.com"
+    },
+    {
+      "id": "clothing_010",
+      "name": "Quince Linen Pants",
+      "brand": "Quince",
+      "category": "clothing",
+      "subcategory": "Bottoms",
+      "puraScore": 92,
+      "whyItsClean": "100% European flax linen. Grown without irrigation or pesticides. Naturally breathable and biodegradable.",
+      "replaces": "Synthetic or blended linen pants with polyester content",
+      "certifications": ["100% Linen", "OEKO-TEX"],
+      "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400",
+      "productUrl": "https://onequince.com"
+    },
+    {
+      "id": "clothing_011",
+      "name": "Quince Organic Cotton Hoodie",
+      "brand": "Quince",
+      "category": "clothing",
+      "subcategory": "Tops",
+      "puraScore": 90,
+      "whyItsClean": "GOTS certified organic cotton. No synthetic fleece lining, no polyester blend. Soft, durable, and toxin-free.",
+      "replaces": "Polyester-lined hoodies that shed microplastics every wash",
+      "certifications": ["GOTS Organic", "No Polyester"],
+      "imageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400",
+      "productUrl": "https://onequince.com"
+    }
+  ]
+}
